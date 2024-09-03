@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mthat456@gmail.com**
 
-- ⚡ Fun fact **I don't like all the lectures at school**
+- ⚡ Fun fact **I don't like all the lectures at univesity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
