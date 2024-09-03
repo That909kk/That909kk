@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [Music Stream App](https://github.com/HKThanh/Music-Stream-App)
+
 - 🌱 I’m currently learning **React Native, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/That909kk/That909kk](https://github.com/That909kk?tab=repositories)
