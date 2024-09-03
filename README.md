@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, C,Mobile,**
 
-- 📫 How to reach me **mthat456@gmail.com** or **21086061.that@student.iuh.edu.vn**
+- 📫 How to reach me **mthat456@gmail.com**
 
 - ⚡ Fun fact **I don't like all the lectures at school**
 
