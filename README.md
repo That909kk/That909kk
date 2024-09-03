@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/sống với tên thật](https://www.facebook.com/share/dzPRy9AE5aixk5DW/?mibextid=LQQJ4d)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sống với tên thật" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/that909kk](https://www.youtube.com/@minhthat909kk)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="that909kk" height="30" width="40" /></a>
+<a href="https://fb.com/sống với tên thật" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sống với tên thật" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/that909kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="that909kk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
